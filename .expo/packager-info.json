@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 4484,
+  "expoServerNgrokUrl": "https://qe-jns.anonymous.foblo.exp.direct",
+  "packagerNgrokUrl": "https://packager.qe-jns.anonymous.foblo.exp.direct",
+  "ngrokPid": 6900
+}
