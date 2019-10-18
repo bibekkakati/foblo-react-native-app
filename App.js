@@ -23,6 +23,7 @@ import AddPhotoScreen from "./screens/AddPhotoScreen";
 import PhotoCommentsScreen from "./screens/PhotoCommentsScreen";
 
 //CONFIGURE WITH YOUR OWN FIREBASE ACCOUNT
+
 var config = {
   apiKey: "***",
   authDomain: "***",
